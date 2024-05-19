@@ -19,3 +19,6 @@
 ### First, a Supabase Database must be used to take in user input: "distance" (in km). 
 ### Second, an external API reference is necessary to connect to the Climatiq API, which calculates a basic estimate of CO2 emissions ('https://api.climatiq.io/data/v1/estimate'). The user input will be logged into the newly created database via POST method for the "distance" variable. 
 ### Finally, Chart JS will be called to create a line graph, showing the emissions per day (in kg) over the course of 7 days (Monday-Sunday).
+
+## Running the Application: Main Page
+### Insert Text here.
