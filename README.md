@@ -11,7 +11,7 @@
 ### Since this application is targeted for Chrome users, it is necessary to download the Google Chrome web browser on the local device. In addition, when running the application, the user must have an IDE of their choice installed on the local device. The developing team suggests the usage of Visual Studio Code (VS Code), due to its versatility in handling HTML, Cascading Style Sheets (CSS), and Javascript files.
 
 ## Running the Application: Home
-### Insert Text here.
+### This page displays the problem statement and mission of our website. The home page also has a navigation bar which includes "home", "records", "about." 
 
 ## Running the Application: Records
 ### This page takes in information from the user to calculate their total number of emissions based on the distance they drive every day over the course of one week. The page makes assumptions for car type, engine size, and fuel source, to calculate emissions based on distance alone. 
