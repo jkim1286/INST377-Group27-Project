@@ -20,5 +20,5 @@
 ### Second, an external API reference is necessary to connect to the Climatiq API, which calculates a basic estimate of CO2 emissions ('https://api.climatiq.io/data/v1/estimate'). The user input will be logged into the newly created database via POST method for the "distance" variable. 
 ### Finally, Chart JS will be called to create a line graph, showing the emissions per day (in kg) over the course of 7 days (Monday-Sunday).
 
-## Running the Application: Main Page
-### Insert Text here.
+## Future works:
+### For future works, developers could use different API's to improve our main page. Our designed wireframes required main page to have some motivational quotes to motivate companies to decrease carbon foot print and a database with prizes for each month associated with a monthly challenge. However, our chosen API didn't have such data. Therefore, for future works, we would suggest developers to incorporate additional API for the main page of the program. 
